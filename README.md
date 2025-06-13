@@ -38,6 +38,16 @@ Este projeto tem como foco a análise de dados do Sistema Nacional de Informaç�
 - **Jupyter Notebook**
 - **GitHub**
 
+## 📂 **Estrutura do Repositório**
+```
+📂 
+├── 📁 data/ - Dados brutos e processados.
+├── 📁 docs/ - Destinado a toda documentação do projeto, incluindo o PDF da apresentação.
+├── 📁 notebooks/ - Notebooks Jupyter usados para análises e experimentos.
+├── 📁 reports/ - Imagens dos gráficos.
+└── 📄 README.md - Documentação principal.
+```
+
 ## 📊 Análises e Resultados
 
 - A cobertura de água potável aumentou de 69,5% em 2018 para quase 72% em 2022.
