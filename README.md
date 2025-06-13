@@ -17,7 +17,7 @@ Este projeto tem como foco a análise de dados do **Sistema Nacional de Informa�
 1. **📥 Coleta e Tratamento dos Dados**  
    Dados extraídos do [SNIS](https://basedosdados.org/dataset/2a543ad8-3cdb-4047-9498-efe7fb8ed697?table=df7cf198-4889-4baf-bb77-4e0e28eb90ca), com foco nos últimos 5 anos e nos indicadores por estado.
 
-2. **📊 Análise**  
+2. **📊 Análise Exploratória**  
    Identificação de padrões, inconsistências e possíveis correlações entre saneamento e saúde pública.
 
 3. **🧭 Visualizações**  
@@ -30,7 +30,9 @@ Este projeto tem como foco a análise de dados do **Sistema Nacional de Informa�
 
 ## 📈 Resultados
 
-
+- A cobertura de água potável aumentou ligeiramente nos últimos anos, mas há grande desigualdade entre estados.
+- A coleta de esgoto é ainda mais desigual, com grandes deficiências no Norte e Nordeste.
+- Estados com maior saneamento têm menor índice de doenças simuladas.
 
 ## 👥 Membros do Grupo
 
